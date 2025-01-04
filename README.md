@@ -1,5 +1,5 @@
 ### Hi there 👋
--🌱 I’m currently learning ... Solidity
+-🌱 I’m currently learning ... GenAI
 - 🔭 I’m currently working on ... Something Cool
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
